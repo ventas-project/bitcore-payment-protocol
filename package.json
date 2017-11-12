@@ -43,7 +43,7 @@
     "browser": "lib/browser.js",
     "dependencies": {
         "asn1.js": "=4.5.2",
-        "bitcore-lib": "http://git.etra.kr/bitpay/bitcore-lib/archive/master.tar.gz",
+        "bitcore-lib": "https://github.com/ventas-project/bitcore-lib.git",
         "jsrsasign": "=5.0.10",
         "protobufjs": "=5.0.1"
     },
